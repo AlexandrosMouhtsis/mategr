@@ -1,2 +1,0 @@
-# mategr
-greek po files
