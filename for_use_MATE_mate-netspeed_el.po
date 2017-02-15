@@ -1,0 +1,383 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Angelos Chraniotis <chraniotis@gmail.com>, 2016
+# Efstathios Iosifidis <iefstathios@gmail.com>, 2013-2016
+# geost <george.stefanakis@gmail.com>, 2012
+# thunk <thunk77@gmail.com>, 2014
+# Γιώργος Μηντζιλώνης, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 17:16+0300\n"
+"PO-Revision-Date: 2017-02-03 10:43+0000\n"
+"Last-Translator: Αλέξανδρος Καπετάνιος <alexandros@gnugr.org>\n"
+"Language-Team: Greek (http://www.transifex.com/mate/MATE/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:1
+msgid "Device to monitor"
+msgstr "Συσκευή προς εποπτεία"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:2
+msgid "The name of the device to monitor"
+msgstr "Το όνομα της συσκευής προς εποπτεία"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:3
+msgid "Show sum speed"
+msgstr "Προβολή συνολικής ταχύτητας"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:4
+msgid "If true, show sum of inbound/outbound speed instead of separated ones."
+msgstr "Αν είναι αληθές, εμφάνισε τη συνολική εισερχόμενη/εξερχόμενη ταχύτητα αντί των διαχωρισμένων."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:5
+msgid "Show bits"
+msgstr "Προβολή bits"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:6
+msgid "If true, show speed in bits instead of bytes."
+msgstr "Αν είναι αληθές, εμφάνισε τη ταχύτητα σε bits αντί σε bytes."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:7
+msgid "Show icon"
+msgstr "Εμφάνιση εικονιδίου"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:8
+msgid "If true, show main icon."
+msgstr "Αν είναι αληθές, εμφάνισε το πρωτεύων εικονίδιο."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:9
+msgid "Short unit legend"
+msgstr "Σμίκρυνση μονάδας"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:10
+msgid ""
+"If true, shorten unit legend to one letter: lowercase for bits / uppercase "
+"for Bytes."
+msgstr "Αν είναι αληθές, σμίκρυνε την μονάδα σε ένα γράμμα: πεζά για bits / κεφαλαία για Bytes."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:11
+msgid "Change icon"
+msgstr "Αλλαγή εικονιδίου"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:12
+msgid "If true, change the icon due to selected device."
+msgstr "Αν είναι αληθές, άλλαξε το εικονίδιο λόγο της επιλεγμένης συσκευής."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:13
+msgid "Auto change device"
+msgstr "Αυτόματη αλλαγή συσκευής"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:14
+msgid "If true, change automatically the selected device."
+msgstr "Αν είναι αληθές, άλλαξε αυτόματα την επιλεγμένη συσκευή."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:15
+msgid "In color"
+msgstr "Εσωτερικό χρώμα"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:16
+msgid "The color of the graph of the inbound traffic"
+msgstr "Το χρώμα του γραφήματος της εισερχόμενης κυκλοφορίας"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:17
+msgid "Out color"
+msgstr "Εξωτερικό χρώμα"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:18
+msgid "The color of the graph of the outbound traffic"
+msgstr "Το χρώμα του γραφήματος της εξερχόμενης κυκλοφορίας."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:19
+msgid "Up command"
+msgstr "Εντολή αποστολής"
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:20
+msgid "Command the execute to activate the device"
+msgstr "Δώσε εντολή για να ενεργοποιήθει η συσκευή."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:21
+msgid "Down command"
+msgstr "Εντολή αποτροπής."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:22
+msgid "Command the execute to shut down the device"
+msgstr "Δώσε εντολή για να τερματίσει την συσκευή."
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:23
+msgid "Show signal quality icon"
+msgstr "Εμφανίσει εικονιδίου ποιότητας σήματος. "
+
+#: ../data/org.mate.panel.applet.netspeed.gschema.xml.in.h:24
+msgid "If true, show signal quality icon for wireless devices."
+msgstr "Αν είναι αληθές, εμφανίσει εικονιδίου ποιότητας σήματος για ασύρματες συσκευές"
+
+#. translators: bits (short)
+#: ../src/netspeed.c:395
+msgid "b"
+msgstr "b"
+
+#. translators: Bytes (short)
+#: ../src/netspeed.c:395
+msgid "B"
+msgstr "B"
+
+#: ../src/netspeed.c:397
+msgid "b/s"
+msgstr "b/s"
+
+#: ../src/netspeed.c:397
+msgid "B/s"
+msgstr "B/s"
+
+#: ../src/netspeed.c:400
+msgid "bits"
+msgstr "bits"
+
+#: ../src/netspeed.c:400
+msgid "bytes"
+msgstr "bytes"
+
+#. translators: kilobits (short)
+#: ../src/netspeed.c:408
+msgid "k"
+msgstr "k"
+
+#. translators: Kilobytes (short)
+#: ../src/netspeed.c:408
+msgid "K"
+msgstr "K"
+
+#: ../src/netspeed.c:410
+msgid "kb/s"
+msgstr "kb/s"
+
+#: ../src/netspeed.c:410
+msgid "KiB/s"
+msgstr "KiB/s"
+
+#: ../src/netspeed.c:413
+msgid "kb"
+msgstr "kb"
+
+#: ../src/netspeed.c:413
+msgid "KiB"
+msgstr "KiB"
+
+#. translators: megabits (short)
+#: ../src/netspeed.c:423
+msgid "m"
+msgstr "m"
+
+#. translators: Megabytes (short)
+#: ../src/netspeed.c:423
+msgid "M"
+msgstr "M"
+
+#: ../src/netspeed.c:425
+msgid "Mb/s"
+msgstr "Mb/s"
+
+#: ../src/netspeed.c:425
+msgid "MiB/s"
+msgstr "MiB/s"
+
+#: ../src/netspeed.c:428
+msgid "Mb"
+msgstr "Mb"
+
+#: ../src/netspeed.c:428
+msgid "MiB"
+msgstr "MiB"
+
+#: ../src/netspeed.c:770
+#, c-format
+msgid ""
+"There was an error displaying help:\n"
+"%s"
+msgstr "Υπήρξε ένα σφάλμα κατά την προβολή της βοήθειας:\n%s"
+
+#: ../src/netspeed.c:809
+msgid ""
+"A little applet that displays some information on the traffic on the "
+"specified network device"
+msgstr "Μια μικρή εφαρμογή που παρέχει μερικές πληροφορίες για την κυκλοφορία της καθορισμένης συσκευής δικτύου"
+
+#: ../src/netspeed.c:812
+msgid "translator-credits"
+msgstr "Ελληνική μεταφραστική ομάδα GNOME\n Γιάννης Κατσαμπίρης <giannis1_86@hotmail.com>\n Σίμος Ξενιτέλλης <simos@gnome.org>\n\nΓια περισσότερα δείτε http://www.gnome.gr/"
+
+#: ../src/netspeed.c:970
+msgid "Mate Netspeed Preferences"
+msgstr "Προτιμήσεις Mate Netspeed"
+
+#: ../src/netspeed.c:992
+msgid "General Settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: ../src/netspeed.c:1018
+msgid "Network _device:"
+msgstr "Συ_σκευή δικτύου:"
+
+#. Default means device with default route set
+#: ../src/netspeed.c:1034
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: ../src/netspeed.c:1047
+msgid "Show _sum instead of in & out"
+msgstr "Εμφάνιση του σ_υνόλου αντί για τα εισερχόμενα και τα εξερχόμενα"
+
+#: ../src/netspeed.c:1051
+msgid "Show _bits instead of bytes"
+msgstr "Προβολή σε _bit αντί για byte"
+
+#: ../src/netspeed.c:1055
+msgid "Shorten _unit legend"
+msgstr "Σμίκρυνση _unit legend"
+
+#: ../src/netspeed.c:1059
+msgid "Change _icon according to the selected device"
+msgstr "Αλλαγή του _εικονιδίου σύμφωνα με την επιλεγμένη συσκευή"
+
+#: ../src/netspeed.c:1063
+msgid "Show _icon"
+msgstr "Προβολή _εικονιδίου"
+
+#: ../src/netspeed.c:1067
+msgid "Show signal _quality icon for wireless devices"
+msgstr "Εμφανίσει εικονιδίου ποιότητας σήματος για ασύρματες συσκευές"
+
+#: ../src/netspeed.c:1198
+#, c-format
+msgid "Device Details for %s"
+msgstr "Λεπτομέρειες συσκευής για την %s"
+
+#: ../src/netspeed.c:1223
+msgid "_In graph color"
+msgstr "Χρώμα διαγράμματος των ει_σερχομένων"
+
+#: ../src/netspeed.c:1224
+msgid "_Out graph color"
+msgstr "Χρώμα διαγράμματος των ε_ξερχομένων"
+
+#: ../src/netspeed.c:1240
+msgid "Internet Address:"
+msgstr "Διεύθυνση διαδικτύου:"
+
+#: ../src/netspeed.c:1241
+msgid "Netmask:"
+msgstr "Netmask:"
+
+#: ../src/netspeed.c:1242
+msgid "Hardware Address:"
+msgstr "Διεύθυνση υλικού:"
+
+#: ../src/netspeed.c:1243
+msgid "P-t-P Address:"
+msgstr "Διεύθυνση αμοιβαίας διασύνδεσης υπολογιστών (P-t-P):"
+
+#: ../src/netspeed.c:1244
+msgid "Bytes in:"
+msgstr "Εισερχόμενα byte:"
+
+#: ../src/netspeed.c:1245
+msgid "Bytes out:"
+msgstr "Εξερχόμενα byte:"
+
+#: ../src/netspeed.c:1247 ../src/netspeed.c:1248 ../src/netspeed.c:1249
+#: ../src/netspeed.c:1250
+msgid "none"
+msgstr "κανένα"
+
+#: ../src/netspeed.c:1318
+msgid "IPV6 Address:"
+msgstr "Διεύθυνση IPV6:"
+
+#: ../src/netspeed.c:1357
+msgid "Signal Strength:"
+msgstr "Ισχύς σήματος:"
+
+#: ../src/netspeed.c:1358
+msgid "ESSID:"
+msgstr "ESSID:"
+
+#: ../src/netspeed.c:1412
+msgid "Device _Details"
+msgstr "_Λεπτομέρειες συσκευής"
+
+#: ../src/netspeed.c:1414
+msgid "Preferences..."
+msgstr "Προτιμήσεις..."
+
+#: ../src/netspeed.c:1416
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: ../src/netspeed.c:1418
+msgid "About..."
+msgstr "Περί..."
+
+#: ../src/netspeed.c:1459
+#, c-format
+msgid "Do you want to disconnect %s now?"
+msgstr "Θέλετε να αποσυνδεθείτε από το %s τώρα;"
+
+#: ../src/netspeed.c:1463
+#, c-format
+msgid "Do you want to connect %s now?"
+msgstr "Θέλετε να συνδεθείτε στο %s τώρα;"
+
+#: ../src/netspeed.c:1490
+#, c-format
+msgid ""
+"<b>Running command %s failed</b>\n"
+"%s"
+msgstr "<b>Αποτυχία εκτέλεσης εντολής %s</b>\n%s"
+
+#: ../src/netspeed.c:1549
+#, c-format
+msgid "%s is down"
+msgstr "Το %s είναι κάτω"
+
+#: ../src/netspeed.c:1554
+#, c-format
+msgid ""
+"%s: %s\n"
+"in: %s out: %s"
+msgstr "%s: %s\nεισερχόμενα: %s εξερχόμενα: %s"
+
+#: ../src/netspeed.c:1556 ../src/netspeed.c:1565
+msgid "has no ip"
+msgstr "δεν έχει διεύθυνση IP"
+
+#: ../src/netspeed.c:1563
+#, c-format
+msgid ""
+"%s: %s\n"
+"sum: %s"
+msgstr "%s: %s\nΣύνολο: %s"
+
+#: ../src/netspeed.c:1572
+#, c-format
+msgid ""
+"\n"
+"ESSID: %s\n"
+"Strength: %d %%"
+msgstr "\nESSID: %s\nΔύναμη: %d %%"
+
+#: ../src/netspeed.c:1573
+msgid "unknown"
+msgstr "άγνωστο"
+
+#: ../src/netspeed.c:1624
+msgid "Mate Netspeed"
+msgstr "Mate Netspeed"
